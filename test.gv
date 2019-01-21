@@ -1,0 +1,9 @@
+digraph mygraf {
+
+  a -> b;
+  b -> c;
+  a -> d;
+  d -> b;
+  d -> e;
+
+}
